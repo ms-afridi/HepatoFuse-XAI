@@ -1,0 +1,9 @@
+{
+  "n": 120,
+  "tiles_per_patient": 25,
+  "grid": 5,
+  "tile_px": 64,
+  "genes": 60,
+  "seed": 7,
+  "synthetic": true
+}

@@ -1,0 +1,61 @@
+gene,programme,mean_abs_attr
+TTR,Hepatocyte function,0.6241718254362544
+PPARG,Lipid metabolism / steatosis,0.6209064078206817
+COL1A2,Fibrosis / stellate cell,0.4735913954985638
+TF,Hepatocyte function,0.4626207892472545
+CPS1,Hepatocyte function,0.44109009217354467
+CD68,Inflammation,0.44012998503943285
+GLUL,Wnt / beta-catenin,0.38011173137153187
+SPINK1,HCC / progenitor markers,0.3114122306307157
+CYP2E1,Hepatocyte function,0.3035084147057205
+CD24,HCC / progenitor markers,0.2692727756065627
+ALB,Hepatocyte function,0.2679401019510503
+VEGFA,Angiogenesis,0.25545479473657906
+SALL4,HCC / progenitor markers,0.2461315349986156
+SCD,Lipid metabolism / steatosis,0.24512127661146224
+ARID1A,Tumour suppressors / drivers,0.23898695837706327
+TERT,Tumour suppressors / drivers,0.23346943741198628
+AFP,HCC / progenitor markers,0.2298084212311854
+ACACA,Lipid metabolism / steatosis,0.226818327124541
+CD36,Lipid metabolism / steatosis,0.21427955742692575
+COL1A1,Fibrosis / stellate cell,0.20956021444872022
+CCNB1,Proliferation,0.192085758705313
+APOB,Hepatocyte function,0.19009227820982535
+IL1B,Inflammation,0.183946234996741
+TP53,Tumour suppressors / drivers,0.17878287440980783
+PNPLA3,Lipid metabolism / steatosis,0.17790891616023147
+TIMP1,Fibrosis / stellate cell,0.17728810471793016
+AURKA,Proliferation,0.17662188917505167
+CYP3A4,Hepatocyte function,0.1724555664967435
+COL3A1,Fibrosis / stellate cell,0.1717366448060299
+AXIN1,Wnt / beta-catenin,0.17100581466705383
+ACTA2,Fibrosis / stellate cell,0.17026903227282067
+APOA1,Hepatocyte function,0.16689214668003843
+MKI67,Proliferation,0.15706243100576103
+CDK1,Proliferation,0.1547189821333935
+CDKN2A,Tumour suppressors / drivers,0.13164423746832957
+GPC3,HCC / progenitor markers,0.13111743401483789
+MYC,Tumour suppressors / drivers,0.1259654337821606
+TNF,Inflammation,0.12248084362765516
+LOX,Fibrosis / stellate cell,0.12004826958291233
+SERPINA1,Hepatocyte function,0.11552747752696936
+CTNNB1,Wnt / beta-catenin,0.11529093946640691
+NFE2L2,Tumour suppressors / drivers,0.10553641154741247
+IL6,Inflammation,0.10381717365700448
+EPCAM,HCC / progenitor markers,0.09872026095205608
+KDR,Angiogenesis,0.08670304951237995
+KRT19,HCC / progenitor markers,0.08613062459044159
+ANGPT2,Angiogenesis,0.08593304318686326
+SPARC,Fibrosis / stellate cell,0.0852485316247718
+CCL2,Inflammation,0.08477266247597678
+SREBF1,Lipid metabolism / steatosis,0.0801378086345115
+DKK1,HCC / progenitor markers,0.07848737289508184
+BIRC5,Proliferation,0.07792564833362121
+TOP2A,Proliferation,0.0772998406837966
+PCNA,Proliferation,0.06420440594083629
+STAT3,Inflammation,0.06361216516525019
+FASN,Lipid metabolism / steatosis,0.06180745335295797
+CXCL8,Inflammation,0.05760638904175721
+HNF4A,Hepatocyte function,0.0542426178183329
+TGFB1,Fibrosis / stellate cell,0.04790770516774501
+PTEN,Tumour suppressors / drivers,0.039987322686162466
